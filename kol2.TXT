@@ -4,3 +4,4 @@ oraz
 zmiana03
 zmiana04
 prostaWersja
+testy
