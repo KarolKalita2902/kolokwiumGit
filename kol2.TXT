@@ -1,2 +1,6 @@
 zmiana02
 zmiana05
+oraz
+zmiana03
+zmiana04
+prostaWersja
