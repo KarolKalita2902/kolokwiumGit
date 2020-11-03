@@ -2,3 +2,4 @@ zmiana01
 zmiana1
 zmiana2
 cos1
+cos2
